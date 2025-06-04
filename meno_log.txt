@@ -1,0 +1,206 @@
+
+--- Game started at Sun Dec 08 22:47:43 2024
+You have 5 special points.
+How many do you wanna put towards strength: How many do you wanna put towards endurance: How many do you wanna put towards charisma: How many do you wanna put towards agility: How many do you wanna put towards luck: You awaken in a dimly lit room, the air heavy with mystery. There are no windows, only a single wooden door, You don't remember how you got here, but you know one thing for sure: you need to find the keys to escape.
+The room is filled with shadows, and you feel the presence of something or someone watching. The door is locked, and the key is somewhere in the house. Will you be able to find it before time runs out?
+
+Fight Room: A dangerous enemy appears!
+Would you like to save the game? (y/n): The game has been saved!
+Would you like to end the game? (y/n): 
+--- Game started at Sun Dec 08 22:48:28 2024
+Loaded meno game file
+
+Fight Room: A dangerous enemy appears!
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): As you step forward, the door creaks open, revealing a dimly lit hallway. At the end of the corridor, is a path, shrouded in mist and shadow, Suddenly, a dark figure emerges from the fog, standing tall and menacing.
+You're not sure how it found you, but there's no turning back now. You must decide quickly: fight, flee, or try to outsmart it.?
+  1. Fight 
+  2. Run away 
+  3. Distract 
+What will you do? (input number): 
+You make a split-second decision to retreat, turning and dashing toward the nearest exit.As you try to sprint, you stumble, your footing unsure. The enemy is quick to react, seizing the opportunity.
+A sharp pain erupts as their strike lands, taking advantage of your moment of weakness. You'll have to fight your way out.
+  The enemy lunges at you with swift, deadly intent, their weapon aimed straight for you. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+Without a word, you charge forward, heart racing as the adrenaline floods your veins.
+  Your HP: 94 	Enemy HP: 95
+1.round:
+  Your attack caused 8 damage.
+  Enemy's attack caused 22 damage.
+  Your HP: 72 	Enemy HP: 87
+2.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 77
+3.round:
+  Your attack caused 8 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 69
+4.round:
+  Your attack caused 8 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 61
+5.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 51
+6.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 41
+7.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 31
+8.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 21
+9.round:
+  Your attack caused 9 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 12
+10.round:
+  Your attack caused 10 damage.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 2
+11.round:
+  You lunge forward, weapon raised, your heart pounding in your chest. With all your might, you strike, but the enemy swiftly sidesteps. You quickly regain your stance, frustration bubbling inside you.
+  The enemy lunges at you with swift, deadly intent. You barely manage to dodge in time, feeling the air rush past as the attack narrowly misses.
+  Your HP: 72 	Enemy HP: 2
+12.round:
+  Your attack caused 8 damage.
+  With one final, decisive blow, you strike your enemy down. The tension that once filled the air now fades, leaving an eerie stillness in its wake.
+As you search the area, something catches your eye. A small object partially hidden under some loose rubble. You kneel down, brushing aside the dust and debris, and your fingers close around a cold, metal key.
+With a sense of quiet satisfaction, you tuck the key into your pocket, knowing it might prove essential on your journey.
+As you search the area, something catches your eye. A small object partially hidden under some loose rubble. You kneel down, brushing aside the dust and debris, and your fingers close around a cold, metal key.
+With a sense of quiet satisfaction, you tuck the key into your pocket, knowing it might prove essential on your journey.
+After a bit of rest you decide to move on.
+
+Maze: A complex maze stretches before you.
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): The maze stretches out before you, its labyrinthine passages seeming to shift and change with every turn. The walls close in, and time is running out. If you don't find a way out soon, the maze will become your tomb.
+In front of are 3 seemingly identical paths: 
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. The path twists sharply, leading you into a dead end. The disorienting feeling of being lost sinks in as you're forced to retrace your steps. The clock is ticking.
+  1. Left
+  2. Forward
+  3. Right
+What path will you choose: You make your choice and head down the path. As you move deeper into the passage, the walls seem to open slightly, You've made the right decision this time, but the time is still running out.
+After what feels like an eternity, the walls seem to open up, and you burst into the open air. You've made it. And what's more a key has somehow appeared in your pocket.
+
+Merchant: A mysterious trader offers his wares.
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): In the center of the room, a merchant sits by a crackling fire. "Ah, a traveler! Come, have a look. I've got items to aid you on your journey, for the right price, of course." You glance at the goods:
+  1. Small health potion:	10 coins
+  2. Large health potion:	20 coins
+  3. Luck amulet:	15 coins
+  4. Sword:	20 coins
+  5. Shield:	20 coins
+  6. Stealth cloak:	15 coins
+  7. Revive token:	20 coins
+  8. Key:	10 coins
+  9. Leave
+What will you buy (input number): You have purchased Sword
+"Excellent choice, sir", says the merchant.
+What will you buy (input number): You have purchased Key
+"Excellent choice, sir", says the merchant.
+What will you buy (input number): After some thought, you thank the merchant and turn away, deciding to move on.
+
+Trap: Be careful where you step!
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): An old stone archway is soon revealed, marking the entrance to another room. With a deep breath, you step through the archway.
+As you step through the archway, you sense something is off.
+Just as you notice the faint outline of a hidden pressure plate, it's too late. Before you can react, a net of sharp spikes shoots up from the ground. The pain is immediate. 
+After narrowly avoiding further danger, you steady yourself and push forward, your pulse still racing.
+As you search the area, something catches your eye. A small object partially hidden under some loose rubble. You kneel down, brushing aside the dust and debris, and your fingers close around a cold, metal key.
+With a sense of quiet satisfaction, you tuck the key into your pocket, knowing it might prove essential on your journey.
+
+Alchemy: Strange potions line the walls.
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): You step through a heavy wooden door. At the center of the room stands a table, and on it, 5 elixirs glowing faintly with its own unique color.
+As you approach the table, your eyes are drawn to a scroll on it Unrolling it, you read a cryptic message: "In these 5 elixirs lies the path to creation. Choose wisely, for the correct combination of 3 will forge the Key of Passage.
+combination[0] = 4
+combination[1] = 5
+combination[2] = 2
+  1. Crimson elixir.
+  2. Golden elixir.
+  3. Silver elixir.
+  4. Azure elixir.
+  5. Rose elixir.
+Which ones will you combine. (input number): You pour a small portion of the azure elixir into the cauldron.
+  1. Crimson elixir.
+  2. Golden elixir.
+  3. Silver elixir.
+  4. Azure elixir.
+  5. Rose elixir.
+Which ones will you combine. (input number): You pour a small portion of the rose elixir into the cauldron.
+  1. Crimson elixir.
+  2. Golden elixir.
+  3. Silver elixir.
+  4. Azure elixir.
+  5. Rose elixir.
+Which ones will you combine. (input number): You pour a small portion of the golden elixir into the cauldron.
+The mixture begins to glow brighter, illuminating the room. A soft hum fills the air, and with a sudden flash, the liquid solidifies. "The Key of Passage."
+With renewed determination, you turn to face whatever lies beyond.
+
+Boss Room: The final challenge awaits.
+Would you like to save the game? (y/n): Would you like to end the game? (y/n): You approach an immense door, its surface carved with intricate patterns of ancient battles and forgotten runes. With struggle you open the heavy door. At the far end, seated upon a throne is a figure cloaked in darkness."So, you've made it this far. Impressive, but this is where your journey ends." The figure rises, and you feel an overwhelming sense of dread. This is no ordinary foe. This is the master of this place, the one who has been watching your every move.
+Without a word, you charge forward, heart racing as the adrenaline floods your veins.
+  Your HP: 52 	Enemy HP: 111
+1.round:
+  Your attack caused 20 damage.
+  Enemy's attack caused 65 damage.
+Everything seems to slow as the final blow lands. Pain explodes through your body, and you gasp for breath, but it's too late. Despite your efforts to stay conscious, you feel yourself slipping away.
